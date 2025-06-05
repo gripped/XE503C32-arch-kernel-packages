@@ -1,0 +1,3 @@
+Does not build without manual intervention
+
+PKGBUILD.distcc then PKGBUILD.distcc3 but copy kernel.its into linux source.
